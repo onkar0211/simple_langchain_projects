@@ -5,5 +5,5 @@ langchain-community
 dotenv
 langgraph
 streamlit
-
+langchain-nimble
 
